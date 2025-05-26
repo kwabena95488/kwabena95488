@@ -34,11 +34,11 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 **Advanced Analytics & Business Intelligence**
 
-    Enterprise BI: Power BI (advanced DAX), Tableau, Dundas BI
-    Custom Dashboards: Interactive reporting, executive summaries
-    Analytics Platforms: Statistical modeling, predictive analytics
-    Machine Learning: Scikit-learn, TensorFlow, predictive modeling
-    LLM Integration: Service desk automation, intelligent categorization
+- Enterprise BI: Power BI (advanced DAX), Tableau, Dundas BI
+- Custom Dashboards: Interactive reporting, executive summaries
+- Analytics Platforms: Statistical modeling, predictive analytics
+- Machine Learning: Scikit-learn, TensorFlow, predictive modeling
+- LLM Integration: Service desk automation, intelligent categorization
 
 
 🎓 EDUCATION
