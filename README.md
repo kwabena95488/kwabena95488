@@ -2,7 +2,7 @@ Hi there, I'm Carlos! 👋
 
 🚀 About Me
 
-I'm a Data Engineering & Analytics Pro with a passion for transforming data into actionable insights. I specialize in designing and implementing advanced data engineering frameworks, building scalable data pipelines, and delivering state-of-the-art business intelligence solutions.
+I'm a **Data Engineering & Analytics Pro** with a passion for transforming data into actionable insights. I specialize in designing and implementing advanced data engineering frameworks, building scalable data pipelines, and delivering state-of-the-art business intelligence solutions.
 
     💼 Experience: 10+ years in data analytics, project management, and digital transformation
     🎯 Focus: Bridging the gap between IT and business through data-driven solutions
@@ -10,7 +10,7 @@ I'm a Data Engineering & Analytics Pro with a passion for transforming data into
 
 📈 Data Engineering & Analytics Expertise
 
-Business Intelligence: Multi-level performance analysis, dashboard development, strategic insights
+**Business Intelligence:** Multi-level performance analysis, dashboard development, strategic insights
 Data Engineering: ETL pipeline design, data warehouse architecture, system integration
 Predictive Analytics: Forecasting models, trend analysis, risk assessment
 Machine Learning: Classification, clustering, NLP applications
