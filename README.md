@@ -20,6 +20,7 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 **Data Visualization:** Interactive dashboards, executive reporting, stakeholder communication
 
+
 🔬 **Technology**
 
 **Data Engineering Stack**
@@ -46,6 +47,7 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 - Machine Learning: Scikit-learn, TensorFlow, predictive modeling
 
 - LLM Integration: Service desk automation, intelligent categorization
+
 
 
 🎓 EDUCATION
