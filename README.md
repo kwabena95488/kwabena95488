@@ -10,10 +10,15 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 
 Data Engineering & Analytics Expertise
+
 🔍 **Business Intelligence:** Multi-level performance analysis, dashboard development, strategic insights
+
 🏗️ **Data Engineering:** ETL pipeline design, data warehouse architecture, system integration
+
 🔮 **Predictive Analytics:** Forecasting models, trend analysis, risk assessment
+
 🤖 **Machine Learning:** Classification, clustering, NLP applications
+ma
 📊 **Data Visualization:** Interactive dashboards, executive reporting, stakeholder communication
 
 
