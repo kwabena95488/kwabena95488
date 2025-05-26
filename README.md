@@ -32,7 +32,10 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 - Cloud Infrastructure: AWS (EC2, S3, RDS, Lambda), hybrid cloud solutions
 
-**Visualization & Intelligence**
+- Process Automation: Workflow optimization, intelligent routing
+
+
+**Advanced Analytics & Business Intelligence**
 
 - Enterprise BI: Power BI (advanced DAX), Tableau, Dundas BI
 
@@ -40,13 +43,10 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 - Analytics Platforms: Statistical modeling, predictive analytics
 
-**AI & Automation**
-
 - Machine Learning: Scikit-learn, TensorFlow, predictive modeling
 
 - LLM Integration: Service desk automation, intelligent categorization
 
-- Process Automation: Workflow optimization, intelligent routing
 
 🎓 EDUCATION
 - MS, Information Systems - Florida International University
