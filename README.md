@@ -25,8 +25,7 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 **Data Engineering Stack**
 
-    - Pipeline Orchestration: Apache Airflow, SSIS, Custom Python workflows
-
+    **Pipeline Orchestration:** Apache Airflow, SSIS, Custom Python workflows
     - Data Warehousing: Snowflake, SQL Server, SingleStore, SAP integration
 
     - ETL/ELT Processes: Multi-source data integration, real-time processing
