@@ -24,7 +24,7 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 📁 [View My Projects](https://github.com/kwabena95488/Projects)
 
----
+***
 🎓 EDUCATION & CERTIFICATIONS
 - MS, Information Systems - Florida International University
 - MBA, Operations Management - Florida A&M University
