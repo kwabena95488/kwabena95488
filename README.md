@@ -8,13 +8,13 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
     🎯 Focus: Bridging the gap between IT and business through data-driven solutions
     🌱 Always learning: Machine Learning, AI/LLM applications, and cloud technologies
 
-📈 Data Engineering & Analytics Expertise
 
-- **Business Intelligence:** Multi-level performance analysis, dashboard development, strategic insights
-- **Data Engineering:** ETL pipeline design, data warehouse architecture, system integration
-- **Predictive Analytics:** Forecasting models, trend analysis, risk assessment
-- **Machine Learning:** Classification, clustering, NLP applications
-- **Data Visualization:** Interactive dashboards, executive reporting, stakeholder communication
+Data Engineering & Analytics Expertise
+🔍 **Business Intelligence:** Multi-level performance analysis, dashboard development, strategic insights
+🏗️ **Data Engineering:** ETL pipeline design, data warehouse architecture, system integration
+🔮 **Predictive Analytics:** Forecasting models, trend analysis, risk assessment
+🤖 **Machine Learning:** Classification, clustering, NLP applications
+📊 **Data Visualization:** Interactive dashboards, executive reporting, stakeholder communication
 
 
 🎓 EDUCATION & CERTIFICATIONS
