@@ -9,7 +9,7 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
     🌱 Always learning: Machine Learning, AI/LLM applications, and cloud technologies
 
 
-Data Engineering & Analytics Expertise
+**DATA ENGINEERING & ANALYTCS EXPERTISE**
 
 🔍 **Business Intelligence:** Multi-level performance analysis, dashboard development, strategic insights
 
