@@ -24,29 +24,29 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 
 **Data Engineering Stack**
 
-Pipeline Orchestration: Apache Airflow, SSIS, Custom Python workflows
+- Pipeline Orchestration: Apache Airflow, SSIS, Custom Python workflows
 
-Data Warehousing: Snowflake, SQL Server, SingleStore, SAP integration
+- Data Warehousing: Snowflake, SQL Server, SingleStore, SAP integration
 
-ETL/ELT Processes: Multi-source data integration, real-time processing
+- ETL/ELT Processes: Multi-source data integration, real-time processing
 
-Cloud Infrastructure: AWS (EC2, S3, RDS, Lambda), hybrid cloud solutions
+- Cloud Infrastructure: AWS (EC2, S3, RDS, Lambda), hybrid cloud solutions
 
 **Visualization & Intelligence**
 
-Enterprise BI: Power BI (advanced DAX), Tableau, Dundas BI
+- Enterprise BI: Power BI (advanced DAX), Tableau, Dundas BI
 
-Custom Dashboards: Interactive reporting, executive summaries
+- Custom Dashboards: Interactive reporting, executive summaries
 
-Analytics Platforms: Statistical modeling, predictive analytics
+- Analytics Platforms: Statistical modeling, predictive analytics
 
 **AI & Automation**
 
-Machine Learning: Scikit-learn, TensorFlow, predictive modeling
+- Machine Learning: Scikit-learn, TensorFlow, predictive modeling
 
-LLM Integration: Service desk automation, intelligent categorization
+- LLM Integration: Service desk automation, intelligent categorization
 
-Process Automation: Workflow optimization, intelligent routing
+- Process Automation: Workflow optimization, intelligent routing
 
 🎓 EDUCATION
 - MS, Information Systems - Florida International University
