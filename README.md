@@ -17,12 +17,10 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 - **Data Visualization:** Interactive dashboards, executive reporting, stakeholder communication
 
 
-🎓 EDUCATION
+🎓 EDUCATION & CERTIFICATIONS
 - MS, Information Systems - Florida International University
 - MBA, Operations Management - Florida A&M University
 - BS, Business Management - Florida A&M University
-
-🏆 CERTIFICATIONS
 - AWS Cloud Practitioner (2024-2027)
 - Program Management Professional (PgMP) - PMI
 - Graduate Certificate in Project Management - Florida State University
