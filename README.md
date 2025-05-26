@@ -25,12 +25,8 @@ I'm a **Data Engineering & Analytics Pro** with a passion for transforming data 
 📁 [View My Projects](https://github.com/kwabena95488/Projects)
 
 ***
-🎓 EDUCATION & CERTIFICATIONS
-- MS, Information Systems - Florida International University
-- MBA, Operations Management - Florida A&M University
-- BS, Business Management - Florida A&M University
-
-🏆 CERTIFICATIONS
-- AWS Cloud Practitioner - AWS
-- Program Management Professional (PgMP) - PMI
-- Graduate Certificate in Project Management - Florida State University
+| 🎓 **EDUCATION** | 🏆 **CERTIFICATIONS** |
+|---|---|
+| MS, Information Systems<br>Florida International University | AWS Cloud Practitioner<br>Amazon Web Services |
+| MBA, Operations Management<br>Florida A&M University | Program Management Professional (PgMP)<br>Project Management Institute |
+| BS, Business Management<br>Florida A&M University | Graduate Certificate in Project Management<br>Florida State University |
