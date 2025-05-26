@@ -18,7 +18,7 @@ Data Engineering & Analytics Expertise
 🔮 **Predictive Analytics:** Forecasting models, trend analysis, risk assessment
 
 🤖 **Machine Learning:** Classification, clustering, NLP applications
-ma
+
 📊 **Data Visualization:** Interactive dashboards, executive reporting, stakeholder communication
 
 
